@@ -11,7 +11,10 @@ st.markdown('''
 This is the **EDA App** created in Streamlit using the **pandas-profiling** library.
 
 **Credit:** App built in `Python` + `Streamlit` by [Kisalay Srivastava]
+
+---
 ''')
+
 
 # Upload CSV data
 with st.sidebar.header('1. Upload your CSV data'):
